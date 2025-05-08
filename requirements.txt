@@ -1,2 +1,5 @@
 flask
-gunicorn
+flask-login
+flask-wtf
+wtforms
+flask_sqlalchemy
